@@ -1,0 +1,6 @@
+pymysql
+ddddocr
+UserAgent
+fake-useragent
+requests
+Image
